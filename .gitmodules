@@ -1,0 +1,12 @@
+[submodule "lib/bk_common"]
+	path = lib/bk_common
+	url = https://github.com/berkkarabacak/bk-common.git
+[submodule "apps/accounts"]
+	path = apps/accounts
+	url = https://github.com/berkkarabacak/accounts.git
+[submodule "apps/cloud-site-reset"]
+	path = apps/cloud-site-reset
+	url = https://github.com/berkkarabacak/cloud-site-reset.git
+[submodule "web"]
+	path = web
+	url = https://github.com/berkkarabacak/website.git
