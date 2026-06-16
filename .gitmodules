@@ -10,3 +10,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/berkkarabacak/website.git
+[submodule "apps/migration-scrubber"]
+	path = apps/migration-scrubber
+	url = https://github.com/berkkarabacak/migration-scrubber.git
